@@ -27,6 +27,3 @@ Software engineer from Biella 🇮🇹, getting energy from sport 🚴🏻‍♂
 
 ### 🥳&nbsp; Interesting projects
 [Web-Logbook](https://github.com/vsimakhin/web-logbook) - Simple free EASA-style logbook application written in golang
-
-### 📈 GitHub stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jacopx&show_icons=true&theme=gotham" alt="Jacopx" />
